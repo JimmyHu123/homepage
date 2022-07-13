@@ -1,0 +1,15 @@
+.activebutton{
+    transition:transform 0.5s;
+    border:1px solid black;
+    border-radius:25px;
+    width:80%;
+    height:40%;
+    text-align: center;
+
+}
+.activebutton:hover{
+    transform:scale(1.1)
+}
+.imageoption{
+    margin-top:20px
+}
